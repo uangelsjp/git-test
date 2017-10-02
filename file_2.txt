@@ -1,4 +1,6 @@
 Second file
 It's mine~!!
 It's not yours, It's mine!
+<<<<<<< HEAD
 No, This is my file.
+No, Do not touch this. It's mine!!
